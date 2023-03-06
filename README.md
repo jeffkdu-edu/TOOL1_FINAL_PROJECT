@@ -4,7 +4,7 @@
 
 ### Problem Statement: 
 
-I need to scrape the 2023 sunrise and set times for Las Cruces, NM from a website to create a sunrise set table in a weather database.
+I need to scrape the 2023 sunrise and set times for Las Cruces, NM from a website to create a sunrise set table in a weather database.Also, I would like to see the amount of sunlight available for each day of the month along with an average for the month. This will help me determine how effective my solar panels will be throughout the year.
 
 ### Data Attributes: 
 
@@ -55,4 +55,4 @@ Here is an example of the html code from the webpages :
 
 ### Feature Engineering: 
 
-I need to extract the month and day for the year 2023. The month is expressed as the three letter abbreviation. I would want that to be extracted as the month number instead of the three letter expression.
+I need to extract the month and day for the year 2023. The month is expressed as the three letter abbreviation. I would want that to be extracted as the month number instead of the three letter expression. Also, I would like a column that indicates the amount of sunlight available each day in minutes. This will be used to create some plots that will help me determine how effective my solar panels will be throughout the year. 
