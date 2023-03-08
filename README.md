@@ -55,4 +55,15 @@ Here is an example of the html code from the webpages :
 
 ### Feature Engineering: 
 
-I need to extract the month and day for the year 2023. The month is expressed as the three letter abbreviation. I would want that to be extracted as the month number instead of the three letter expression. Also, I would like a column that indicates the amount of sunlight available each day in minutes. This will be used to create some plots that will help me determine how effective my solar panels will be throughout the year. 
+I need to extract the month and day for the year 2023. The month is expressed as the three letter abbreviation. I would want that to be extracted as the month number instead of the three letter expression. Also, I would like a column that indicates the amount of sunlight available each day in minutes. This will be used to create some plots that will help me determine how effective my solar panels will be throughout the year.
+			
+### Literature review:
+
+François Beauducel (2023). SUNRISE: sunrise and sunset times (https://github.com/beaudu/sunrise/releases/tag/v1.4.1), GitHub. Retrieved March 8, 2023.
+			
+McKinney, W. (2022). Python for Data Analysis. Sebastopol: O'Reilly Media, Inc.
+
+
+###  Binder Link:
+
+https://mybinder.org/v2/gh/jeffkdu-edu/TOOL1_FINAL_PROJECT.git/HEAD
